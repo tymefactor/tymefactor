@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tymefactor
+- 👋 Hi, I’m Clement
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning health infomatics
 - 💞️ I’m looking to collaborate on Machine and Deep learning projects (AI)
