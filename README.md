@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Clement
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning health infomatics
+- 👀 I’m interested in Business to improve lives
+- - 🌱 I’m currently learning health infomatics
 - 💞️ I’m looking to collaborate on Machine and Deep learning projects (AI)
 - 📫 How to reach me clementnkansah29@gmail.com
 
